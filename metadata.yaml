@@ -1,0 +1,39 @@
+_repo: The-Gods-of-Mars_29405
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Schoonover, Frank E.
+    alias: Schoonover, Frank Earle
+    birthdate: 1877
+    deathdate: 1972
+    gutenberg_agent_id: '31362'
+    url: http://www.gutenberg.org/2009/agents/31362
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burroughs, Edgar Rice
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '48'
+    url: http://www.gutenberg.org/2009/agents/48
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Rice_Burroughs
+description: ''
+gutenberg_issued: '2009-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29405'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcsh 'Dejah Thoris (Fictitious character) -- Fiction'
+- !lcsh 'Life on other planets -- Fiction'
+- !lcsh 'Carter, John (Fictitious character) -- Fiction'
+title: The Gods of Mars
+url: http://www.gutenberg.org/ebooks/29405
