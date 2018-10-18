@@ -24,7 +24,7 @@ Character set encoding: ASCII
 
 
 
-Thanks to Al Haines, based on the 
+Thanks to Al Haines, based on the
 non-illustrated version, at
 http://www.gutenberg.org/etext/64
 
@@ -4612,7 +4612,7 @@ partition wall separating our cell from the next.
 
 There was my only chance to escape detection.  If the fellow turned, I
 was lost; nor could I have dropped to the floor undetected, since he
-was no nearly below me that I would have struck him had I done so.
+was so nearly below me that I would have struck him had I done so.
 
 "Where is the white man?" cried the guard of Xodar.  "Issus commands
 his presence."  He started to turn to see if I were in another part of
